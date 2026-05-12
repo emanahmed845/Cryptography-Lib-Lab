@@ -1,0 +1,62 @@
+My Private Notes — Confidential
+================================
+
+Note 1 (2025-01-10):
+Today I changed all my passwords. The new master password is stored securely.
+I used a password manager to keep everything safe.
+
+Note 2 (2025-02-14):
+Bought a new laptop. Serial number: LPT-2025-XJ9921.
+Registered under my personal email.
+
+Note 3 (2025-03-05):
+Medical appointment reminder — Dr. Ahmed at 3:00 PM.
+Bring last lab results and insurance card.
+
+Note 4 (2025-04-01):
+Project deadline extended to April 15.
+Need to finish the encryption module by April 10.
+
+Note 5 (2025-04-20):
+Bank account review completed. No suspicious transactions found.
+Balance: [REDACTED FOR PRIVACY].
+
+Note 6 (2025-05-12): 
+Wi-Fi network updated. SSID: Home_Network_5G. 
+WPA3 Password: SuperSecureNetwork2026! Do not share with guests.
+
+Note 7 (2025-06-01): 
+SOC Analyst T1 Interview prep. Must review Splunk BOTSv2/v3 queries for investigating malicious attachments. 
+Need to brush up on Wireshark filters for detecting DNS tunneling.
+
+Note 8 (2025-06-15): 
+GitHub Personal Access Token generated for the malware analysis project repository. 
+Token: ghp_x892MnqP910LKjhbnmz1209... (Valid for 90 days). Keep this strictly confidential.
+
+Note 9 (2025-07-02): 
+Server SSH details for the home lab environment. 
+IP: 192.168.1.105, User: admin_root, Port: 2222. RSA key authentication is enabled.
+
+Note 10 (2025-08-20): 
+License key for VMware Workstation Pro: MV4X0-XXXX-XXXX-XXXX. 
+Saved the invoice in the backup drive.
+
+Note 11 (2025-09-10): 
+Need to renew my National ID next month. Appointment booked for October 5th.
+Do not forget to take the printed forms and photos.
+
+Note 12 (2025-10-01): 
+Crypto wallet recovery seed phrase... Just kidding, I memorized it. 
+Never write it down in plain text anywhere!
+
+Note 13 (2025-11-15): 
+Quick technical note on Nmap for upcoming assessments: 
+Remember that by default it scans the top 1000 ports! Need to use the -p- flag if I want a full 65535 port scan.
+
+Note 14 (2025-12-05): 
+Updated my professional materials. Added the sans450 GSOC certificate to my CV. 
+Still need to refine the objective section for Tier 1 roles before applying.
+
+Note 15 (2026-01-20): 
+Cryptography Lab Notes: The AES-256 implementation is working flawlessly with CBC mode. 
+Remember that the IV must be exactly 16 bytes and randomly generated for every single session to prevent pattern analysis.
